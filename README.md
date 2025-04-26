@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgregmac
-- 👀 I’m interested in code that makes my like as an Info Sec Professional easier.
-- 🌱 I’m currently learning Python, Flask, Kubernetes, GitOps, Elastic Stack.
+- 👀 I’m interested in code that makes my life as an info sec engineer easier.
+- 🌱 I’m currently using Python, Ruby, Kubernetes, GitOps, and Elastic Stack.
 - 💞️ I’m looking to collaborate on development of security tools, mostly written in Python.
 - 📫 How to reach me: mailto:jgreg@outlook.com, <https://www.linkedin.com/in/j-greg-mackinnon-8498b4107>
 
